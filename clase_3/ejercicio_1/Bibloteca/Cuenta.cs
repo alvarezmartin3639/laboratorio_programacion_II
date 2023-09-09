@@ -14,7 +14,7 @@
             this.cantidad = cantidad;
         }
         #endregion
-
+        
         #region Métodos
         public string GetTitular()
         {
