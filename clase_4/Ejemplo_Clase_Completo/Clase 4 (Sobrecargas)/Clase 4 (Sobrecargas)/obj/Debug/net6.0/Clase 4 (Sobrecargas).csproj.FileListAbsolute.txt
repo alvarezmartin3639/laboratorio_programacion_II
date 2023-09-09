@@ -1,0 +1,36 @@
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\Clase 4 (Sobrecargas).exe
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\Clase 4 (Sobrecargas).deps.json
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\Clase 4 (Sobrecargas).runtimeconfig.json
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\Clase 4 (Sobrecargas).dll
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\Clase 4 (Sobrecargas).pdb
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).csproj.AssemblyReference.cache
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).AssemblyInfoInputs.cache
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).AssemblyInfo.cs
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).csproj.CoreCompileInputs.cache
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).dll
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\refint\Clase 4 (Sobrecargas).dll
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).pdb
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).genruntimeconfig.cache
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\ref\Clase 4 (Sobrecargas).dll
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\ClasesNegocio.dll
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\ClasesNegocio.pdb
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).csproj.CopyComplete
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\Clase 4 (Sobrecargas).exe
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\Clase 4 (Sobrecargas).deps.json
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\Clase 4 (Sobrecargas).runtimeconfig.json
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\Clase 4 (Sobrecargas).dll
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\Clase 4 (Sobrecargas).pdb
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\ClasesNegocio.dll
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\bin\Debug\net6.0\ClasesNegocio.pdb
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).csproj.AssemblyReference.cache
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).AssemblyInfoInputs.cache
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).AssemblyInfo.cs
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).csproj.CoreCompileInputs.cache
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).csproj.CopyComplete
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).dll
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\refint\Clase 4 (Sobrecargas).dll
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).pdb
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\Clase 4 (Sobrecargas).genruntimeconfig.cache
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas)\obj\Debug\net6.0\ref\Clase 4 (Sobrecargas).dll

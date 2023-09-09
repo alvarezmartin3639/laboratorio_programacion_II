@@ -1,0 +1,23 @@
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\ClasesNegocio\bin\Debug\net6.0\ClasesNegocio.deps.json
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\ClasesNegocio\bin\Debug\net6.0\ClasesNegocio.dll
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\ClasesNegocio\bin\Debug\net6.0\ClasesNegocio.pdb
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.csproj.AssemblyReference.cache
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.AssemblyInfoInputs.cache
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.AssemblyInfo.cs
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.csproj.CoreCompileInputs.cache
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.dll
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\refint\ClasesNegocio.dll
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.pdb
+C:\Users\German PC\Desktop\C#\C2\C_SHARP_Practicas\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ref\ClasesNegocio.dll
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\ClasesNegocio\bin\Debug\net6.0\ClasesNegocio.deps.json
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\ClasesNegocio\bin\Debug\net6.0\ClasesNegocio.dll
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\ClasesNegocio\bin\Debug\net6.0\ClasesNegocio.pdb
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.AssemblyInfoInputs.cache
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.AssemblyInfo.cs
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.csproj.CoreCompileInputs.cache
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.dll
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\refint\ClasesNegocio.dll
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ClasesNegocio.pdb
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_4\Ejemplo_Clase_Completo\Clase 4 (Sobrecargas)\ClasesNegocio\obj\Debug\net6.0\ref\ClasesNegocio.dll

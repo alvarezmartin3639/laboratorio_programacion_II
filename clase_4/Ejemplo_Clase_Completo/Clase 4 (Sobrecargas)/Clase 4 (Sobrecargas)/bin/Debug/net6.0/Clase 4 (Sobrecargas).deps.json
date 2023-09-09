@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clase 4 (Sobrecargas)/1.0.0": {
+        "dependencies": {
+          "ClasesNegocio": "1.0.0"
+        },
+        "runtime": {
+          "Clase 4 (Sobrecargas).dll": {}
+        }
+      },
+      "ClasesNegocio/1.0.0": {
+        "runtime": {
+          "ClasesNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase 4 (Sobrecargas)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClasesNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
