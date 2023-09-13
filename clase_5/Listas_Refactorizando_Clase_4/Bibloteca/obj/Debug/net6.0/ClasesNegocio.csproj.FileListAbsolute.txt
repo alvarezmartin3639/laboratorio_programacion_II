@@ -1,0 +1,11 @@
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_5\Listas_Refactorizando_Clase_4\Bibloteca\bin\Debug\net6.0\ClasesNegocio.deps.json
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_5\Listas_Refactorizando_Clase_4\Bibloteca\bin\Debug\net6.0\ClasesNegocio.dll
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_5\Listas_Refactorizando_Clase_4\Bibloteca\bin\Debug\net6.0\ClasesNegocio.pdb
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_5\Listas_Refactorizando_Clase_4\Bibloteca\obj\Debug\net6.0\ClasesNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_5\Listas_Refactorizando_Clase_4\Bibloteca\obj\Debug\net6.0\ClasesNegocio.AssemblyInfoInputs.cache
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_5\Listas_Refactorizando_Clase_4\Bibloteca\obj\Debug\net6.0\ClasesNegocio.AssemblyInfo.cs
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_5\Listas_Refactorizando_Clase_4\Bibloteca\obj\Debug\net6.0\ClasesNegocio.csproj.CoreCompileInputs.cache
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_5\Listas_Refactorizando_Clase_4\Bibloteca\obj\Debug\net6.0\ClasesNegocio.dll
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_5\Listas_Refactorizando_Clase_4\Bibloteca\obj\Debug\net6.0\refint\ClasesNegocio.dll
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_5\Listas_Refactorizando_Clase_4\Bibloteca\obj\Debug\net6.0\ClasesNegocio.pdb
+C:\Users\kenyn\source\repos\ejercicios\ejercicios\clase_5\Listas_Refactorizando_Clase_4\Bibloteca\obj\Debug\net6.0\ref\ClasesNegocio.dll

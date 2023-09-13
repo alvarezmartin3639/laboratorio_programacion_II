@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase 4 (Sobrecargas)", "Clase 4 (Sobrecargas)\Clase 4 (Sobrecargas).csproj", "{96E5EFDA-5FF1-45E8-893C-1D6FEA564439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consola", "Clase 4 (Sobrecargas)\Consola.csproj", "{96E5EFDA-5FF1-45E8-893C-1D6FEA564439}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasesNegocio", "ClasesNegocio\ClasesNegocio.csproj", "{81D72811-EA7D-4139-802C-57F74B45E376}"
 EndProject
